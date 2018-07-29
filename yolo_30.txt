@@ -1,0 +1,34 @@
+Hasztag:  yolo 
+Liczba obserwatorów:  30
+Statystyki Ÿróde³:
+ mediana:  30.0 
+ œrednia:  29.8 
+ odchylenie standardowe:  0.4216370213557839 
+ maksimum:  30 
+ minimum:  29 
+ najczêœciej:  30 
+ najrzadziej:  29
+Statystyki samotnych wêz³ów:
+ mediana:  3.0 
+ œrednia:  3 
+ odchylenie standardowe:  1.247219128924647 
+ maksimum:  5 
+ minimum:  1 
+ najczêœciej:  2 
+ najrzadziej:  1
+Statystyki czasów:
+ mediana:  1062704 
+ œrednia:  1134195.4705882352 
+ odchylenie standardowe:  694448.4651339018 
+ maksimum:  2679415 
+ minimum:  113 
+ najczêœciej:  236667 
+ najrzadziej:  236667
+Statystyki skoków:
+ mediana:  1.0 
+ œrednia:  1.19 
+ odchylenie standardowe:  0.9952563072178222 
+ maksimum:  5 
+ minimum:  0 
+ najczêœciej:  0 
+ najrzadziej:  5
